@@ -5,15 +5,19 @@
         try
         {
             Console.Write("Masukkan judul video: ");
-            string judul = Console.ReadLine();
-            SayaTubeVideo video = new SayaTubeVideo(judul);
+            string title = Console.ReadLine();
+
+            var video = new SayaTubeVideo(title);
             video.PrintVideoDetails();
+
             Console.Write("\nMasukkan jumlah penambahan play count: ");
             int count = int.Parse(Console.ReadLine());
+
             Console.WriteLine("\nMenguji overflow play count...");
-            Random rand = new Random();
-            int loopLimit = rand.Next(50, 300);
-            for (int i=0; i < loopLimit; i++)
+            var random = new Random();
+            int loopLimit = random.Next(50, 300);
+
+            for (int i = 0; i < loopLimit; i++)
             {
                 video.IncreasePlayCount(count);
             }

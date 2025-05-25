@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\efekl\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\syhar\\.nuget\\packages\\": {},
+    "C:\\Development\\Code Editor\\Shared\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Workspace\\Visual Studio\\TP_MODUL_6_103022300094\\TP_MODUL_6_103022300094\\TP_MODUL_6_103022300094.csproj",
-      "projectName": "TP_MODUL_6_103022300094",
-      "projectPath": "C:\\Development\\Workspace\\Visual Studio\\TP_MODUL_6_103022300094\\TP_MODUL_6_103022300094\\TP_MODUL_6_103022300094.csproj",
-      "packagesPath": "C:\\Users\\efekl\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Workspace\\Visual Studio\\TP_MODUL_6_103022300094\\TP_MODUL_6_103022300094\\obj\\",
+      "projectUniqueName": "C:\\Development\\Workspace\\Visual Studio\\P.KPL_TpModul14_103022300094\\P.KPL_TpModul14_103022300094.csproj",
+      "projectName": "P.KPL_TpModul14_103022300094",
+      "projectPath": "C:\\Development\\Workspace\\Visual Studio\\P.KPL_TpModul14_103022300094\\P.KPL_TpModul14_103022300094.csproj",
+      "packagesPath": "C:\\Users\\syhar\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\Workspace\\Visual Studio\\P.KPL_TpModul14_103022300094\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Development\\Code Editor\\Shared\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\efekl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\syhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
